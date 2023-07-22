@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "imageUrl": "https://picsum.photos/320/50",
   "visitUrl": "https://picsum.photos/200/300"
 }
