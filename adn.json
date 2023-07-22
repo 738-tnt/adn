@@ -1,5 +1,6 @@
 {
   "enabled": true,
   "imageUrl": "https://raw.githubusercontent.com/738-tnt/adn/main/ethiopian_music_banner_ad.png",
-  "visitUrl": "https://play.google.com/store/apps/details?id=com.tnt.ethiopianmusic"
+  "visitUrl": "https://play.google.com/store/apps/details?id=com.tnt.ethiopianmusic",
+  "adbgfillcolor": "#000000"
 }
